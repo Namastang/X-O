@@ -5,8 +5,9 @@
 }
 
 body {
-    background-color: #12181B;
     padding-top: 1px;
+    background-image: url(https://www.looper.com/img/gallery/ways-marvel-lied-to-you-about-iron-man/intro-1626473269.jpg);
+    background-size: cover;
 }
 
 .title {
@@ -89,4 +90,12 @@ body {
 #startNewGame,
 #startNewRound {
     background-color: #FF3860;
+}
+
+p {
+    color: #09C372;
+}
+
+h1 {
+    color: #498AFB;
 }
